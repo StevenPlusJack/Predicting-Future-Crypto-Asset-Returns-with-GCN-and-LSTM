@@ -1,5 +1,5 @@
 # Predicting-Future-Crypto-Asset-Returns-with-GCN-and-LSTM
-# STAT5242-Project
+# Columbia University - Advanced Machine Learning - STAT5242 - Project
 
 ## Setup
 
