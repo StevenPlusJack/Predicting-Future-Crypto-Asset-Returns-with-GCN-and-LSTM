@@ -3,15 +3,7 @@
 
 ## Setup
 
-This repo contains code accompanying Fall 2021 STAT5242 Final Project. To get set up, make sure you are using Python <3.10 and  simply follow the two-step process
-
-1. Clone this repo and install requirements using
-
-```
-pip install -r requirements.txt
-```
-
-2. Download the G-Research data from <https://www.kaggle.com/c/g-research-crypto-forecasting/data> and place the unzipped folder in the 'data' directory
+This repo contains code accompanying Fall 2021 STAT5242 Final Project. To get set up, make sure you are using Python <3.10 and download the G-Research data from <https://www.kaggle.com/c/g-research-crypto-forecasting/data> and place the unzipped folder in the 'data' directory
 
 ## Training models
 
